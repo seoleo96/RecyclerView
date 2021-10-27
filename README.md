@@ -22,3 +22,4 @@ In this project, I used some techniques at entry level in Android application de
 # How to build:
 *Clone this repository into your local and open with Android Studio.*
 ![image](https://user-images.githubusercontent.com/59287789/139098886-5a78da9c-4b2b-4102-8863-3c2d5960569a.png)
+![image](https://user-images.githubusercontent.com/59287789/139099342-eaf53367-7bda-4655-a041-5323fd346847.png)
